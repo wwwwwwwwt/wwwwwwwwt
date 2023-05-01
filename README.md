@@ -43,6 +43,6 @@ Hi, I'm zzzzzztw, a C++ and Go programmer. Welcome to talk about C++/Go problems
 
 #### 📈 My GitHub Stats && Top Language
 
-[![wwwwwwwwt's github stats](https://github-readme-stats.vercel.app/api?username=wwwwwwwwt&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-![wwwwwwwwt's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wwwwwwwwt&show_icons=true&count_private=true&theme=gotham)
+[![wwwwwwwwt's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwwwwwwt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwwwwwwt&langs_count=8&theme=theme=radical&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
