@@ -1,19 +1,6 @@
 ### Hi there 👋
 
-<!--
-**wwwwwwwwt/wwwwwwwwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C++ and Go...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hey！Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <a href="https://leetcode.cn/u/ye-xu-zai-shui-jue/">
@@ -31,7 +18,7 @@ Hi, I'm zzzzzztw, a C++ and Go programmer. Welcome to talk about C++/Go problems
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Java and Go;
+- 🌱 I’m currently learning C++ and Go;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 [Mail to me](mailto:1162933894@qq.com)
   <br />
